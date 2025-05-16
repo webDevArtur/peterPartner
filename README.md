@@ -61,7 +61,19 @@
 ---
 
 ## 📦 Структура проекта
-<pre> ```plaintext src/ ├── api/ # Работа с API ├── assets/ # Статические файлы ├── components/ # Компоненты интерфейса ├── constants/ # Константы ├── hooks/ # Кастомные хуки ├── pages/ # Страницы приложения ├── types/ # Типы TypeScript ├── App.tsx # Главный компонент └── index.tsx # Точка входа ``` </pre>
+
+```plaintext
+src/
+├── api/            # Работа с API
+├── assets/         # Статические файлы
+├── components/     # Компоненты интерфейса
+├── constants/      # Константы
+├── hooks/          # Кастомные хуки
+├── pages/          # Страницы приложения
+├── types/          # Типы TypeScript
+├── App.tsx         # Главный компонент
+└── index.tsx       # Точка входа
+```
 
 ---
 
